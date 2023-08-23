@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-int main(void)
+nt main(void)
 {
 	int array[3] = {1,2,3};
 	int i;
